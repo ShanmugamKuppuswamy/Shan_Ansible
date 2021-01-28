@@ -1,2 +1,2 @@
-# Shan_Ansible
-Ansible_LAB
+# ShanAnsible
+AnsibleLAB
