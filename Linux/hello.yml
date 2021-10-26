@@ -1,8 +1,0 @@
----
-- name: "Checks basic connectivity"
-  hosts: all
-  gather_facts: no
-  tasks:
-    - name: Hello Message
-      ignore_unreachable: true
-      ping:
