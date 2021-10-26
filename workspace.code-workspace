@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "Shan_Ansible",
+			"path": "../../Shan-lab-git/Shan_Ansible"
+		}
+	],
+	"settings": {}
+}
